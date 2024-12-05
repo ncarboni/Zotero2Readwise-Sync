@@ -12,7 +12,7 @@ and you're ready to go!**
 - Zotero Library ID (secret name: **ZOTERO_ID**)
 
 Check the [Section Usage](https://github.com/e-alizadeh/Zotero2Readwise#usage) in [Zotero2Readwise](https://github.com/e-alizadeh/Zotero2Readwise) repo to get 
-instructions on how to find above information. 
+instructions on how to find above information.  
 
 *Note that since Readwise token and Zotero Key's are sensitive information, they should be treated as your passwords.
 Because of this, I'm using GitHub Action secrets to manage such sensitive variables!*
