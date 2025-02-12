@@ -1,3 +1,8 @@
+
+Modified version of Zotero2Readwise-Sync using [Zotero2ReadwiseMod](https://github.com/ncarboni/Zotero2ReadwiseMod/tree/master)
+
+--
+
 # Zotero2Readwise-Sync 
 [![Zotero ➡️ Readwise Automation](https://github.com/e-alizadeh/Zotero2Readwise-Sync/actions/workflows/automation.yml/badge.svg)](https://github.com/e-alizadeh/Zotero2Readwise-Sync/actions/workflows/automation.yml/badge.svg)
 
