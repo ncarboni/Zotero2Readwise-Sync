@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: 💿 Install your modified Zotero2Readwise package and pyzotero
+      - name: 💿 Install your modified Zotero2Readwise package and pyzotero 1.6.9
         run: |
           pip install pyzotero==1.6.9
           pip install git+https://github.com/ncarboni/Zotero2ReadwiseMod.git
